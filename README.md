@@ -22,12 +22,7 @@
 [back to top](#grouping)
 
 ## Library
-
-
-[back to top](#grouping)
-
-## Package
-- [Angka Menjadi Terbilang](https://www.npmjs.com/package/angka-menjadi-terbilang) - Paket ini akan merubah angka menjadi kata-kata terbilang dalam Bahasa Indonesia. Misal, 234 menjadi 'dua ratus tiga puluh empat'. Author : [@dikyarga](http://github.com/dikyarga) & [@dewey92](https://github.com/dewey92)
+- [Angka Menjadi Terbilang](https://github.com/dikyarga/angka-menjadi-terbilang/) - Paket ini akan merubah angka menjadi kata-kata terbilang dalam Bahasa Indonesia - [@dikyarga](http://github.com/dikyarga) & [@dewey92](https://github.com/dewey92)
 
 [back to top](#grouping)
 
