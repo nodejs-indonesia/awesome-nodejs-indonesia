@@ -7,7 +7,7 @@
 Please follow this [Contribution Guide](https://github.com/nodejs-indonesia/awesome-nodejs-indonesia/blob/master/CONTRIBUTION.md)
 
 ## Grouping
-+ [Application/Website](#application-website)
++ [Application/Website](#applicationwebsite)
 + [Framework](#framework)
 + [Starter Kit](#starter-kit)
 + [Library](#library)
