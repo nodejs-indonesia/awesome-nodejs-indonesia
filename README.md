@@ -21,12 +21,15 @@ Please follow this [Contribution Guide](https://github.com/nodejs-indonesia/awes
 [:arrow_up: back to top](#grouping)
 
 ### Starter Kit
+- [Meteoris](https://github.com/meteoris/meteoris) - New Meteoris, a MVC and Modular framework for Meteor - [radiegtya](https://github.com/radiegtya)
+- [starter-loopback-fireloop](https://github.com/nodejs-indonesia/starter-loopback-fireloop) - A Starter Template using Loopback and Fireloop - [dmastag](https://github.com/dmastag)
 
 
 [:arrow_up: back to top](#grouping)
 
 ### Library
 - [Angka Menjadi Terbilang](https://github.com/dikyarga/angka-menjadi-terbilang/) - Paket ini akan merubah angka menjadi kata-kata terbilang dalam Bahasa Indonesia - [dikyarga](http://github.com/dikyarga) & [dewey92](https://github.com/dewey92)
+- [UAParser.js](https://github.com/faisalman/ua-parser-js) - JavaScript library to identify browser, engine, OS, CPU, and device type/model - [faisalman](https://github.com/faisalman)
 
 [:arrow_up: back to top](#grouping)
 
