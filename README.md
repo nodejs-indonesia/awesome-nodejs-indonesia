@@ -1,6 +1,7 @@
 # awesome-nodejs-indonesia
 :star2: A curated list of awesome things related to Node.js from Indonesian
 
+![awesome-nodejs-indonesia](https://raw.githubusercontent.com/nodejs-indonesia/nodejs-indonesia.github.io/master/nodejs-indonesia.jpg)
 
 ## Grouping
 + [Framework](#framework)
