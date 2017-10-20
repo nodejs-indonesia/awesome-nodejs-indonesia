@@ -22,6 +22,7 @@ Please follow this [Contribution Guide](https://github.com/nodejs-indonesia/awes
 
 
 ### Framework
+- [Bono](https://github.com/xinix-technology/node-bono) - Koa-based web framework - [reekoheek]
 - [KambojaJS](https://github.com/kambojajs/kamboja) - A modern NodeJS MVC framework with simple, flexible and testable API - [ktutnik](https://github.com/ktutnik)
 
 
